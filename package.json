@@ -26,7 +26,7 @@
     "element-ui": "^2.4.11",
     "express": "^4.16.4",
     "kalendar-vue": "^2.1.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "nuxt-i18n": "^6.6.1",
     "nuxt-leaflet": "0.0.21",
     "portal-vue": "^2.1.7",
